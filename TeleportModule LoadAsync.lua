@@ -15,4 +15,8 @@ function method.CreateTeleportParty()
 	
 end
 
+function method.Test(...)
+	print(...)
+end
+
 warn("loaded")
