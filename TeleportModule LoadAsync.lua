@@ -1,5 +1,5 @@
 -- teleport method
-local method = {}
+method = {}
 
 function Teleport(PlaceID, Instances)
 	
