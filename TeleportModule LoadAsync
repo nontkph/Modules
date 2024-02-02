@@ -1,0 +1,5 @@
+local method = {}
+
+function method.Teleport(_)
+  print(_ or "nil message")
+end
